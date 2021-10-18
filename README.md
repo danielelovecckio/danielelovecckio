@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @danielelovecckio, born in Taranto, Italy, on October 1998, gradueted in Computer Science from the University of Bari.
-     Here you can find some projects I did during my university courses and some projects I did and I'm still doing during my free time.
+- 👋 Hi, I’m @danielelovecckio, graduated in Computer Science.
+     Here you can find some codes I made during my university courses and some projects where I'm working to refine my skills.
      
 - 👀 I’m interested in Data science.
 
