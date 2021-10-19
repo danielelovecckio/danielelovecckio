@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @danielelovecckio, graduated in Computer Science.
-     Here you can find some codes I made during my university courses and some projects where I'm working to refine my skills.
+- 👋 Hi! 👋🏻 My name is @danielelovecchio and I graduated in Computer Science. Here, you can find  some codes I made during university courses and some projects I’m      now working on in order to refine my skills.
      
 - 👀 I’m interested in Data science.
 
