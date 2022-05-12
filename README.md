@@ -2,6 +2,6 @@
 
 - 📫 How to reach me: 
                      - email: d.lovecchio4@gmail.com 
-                     - instagram: danielelovecckio 
+                      
 
 
